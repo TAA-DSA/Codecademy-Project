@@ -1,0 +1,39 @@
+* {
+  font-family: helvetica;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+  font-weight: bold;
+  color: khaki;
+  background-image: url("../image/image-1.jpeg");
+}
+
+h2 {
+  font-size: 32px;
+}
+
+p {
+  color: black;
+}
+
+strong {
+  color: blue;
+  text-decoration: none;
+}
+
+.blue-background {
+  background-color: skyblue;
+  color: white;
+}
+
+.lightcoral-background {
+  color: white;
+  background-color: lightcoral;
+}
+
+.springgreen-background {
+  color: white;
+  background-color: mediumspringgreen;
+}
